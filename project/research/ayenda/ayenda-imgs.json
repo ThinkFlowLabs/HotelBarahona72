@@ -1,0 +1,61 @@
+{
+  "count": 9,
+  "imgs": [
+    {
+      "src": "https://ayenda.com/svg/icons/user-solid.svg",
+      "alt": "Icono de menu de usuario",
+      "w": 19,
+      "h": 19
+    },
+    {
+      "src": "https://ayenda.com/svg/icons/chevron-down-icon.svg",
+      "alt": "Flecha apuntando arriba",
+      "w": 12,
+      "h": 7
+    },
+    {
+      "src": "https://ayenda.com/images/flags/colombia.png",
+      "alt": "bandera país",
+      "w": 70,
+      "h": 47
+    },
+    {
+      "src": "https://ayenda-images.imgix.net/21bpmu22r9x7n3i44yg70vq5v2fm?ixlib=react-9.7.0&auto=format&fit=fill&fill=blur&q=80&w=806&h=530&dpr=2",
+      "alt": "Ayenda 1313 Barahona 72 - Triple - 0",
+      "w": 806,
+      "h": 530
+    },
+    {
+      "src": "https://ayenda-images.imgix.net/21bpmu22r9x7n3i44yg70vq5v2fm?ixlib=react-9.7.0&auto=format&fit=fill&fill=blur&q=80&w=806&h=530&dpr=2",
+      "alt": "Ayenda 1313 Barahona 72 - Triple - 0",
+      "w": 806,
+      "h": 530
+    },
+    {
+      "src": "https://ayenda-images.imgix.net/6yh9ndk0xbdnxf849j9fv5afcc74?ixlib=react-9.7.0&q=80&auto=compress%2Cenhance%2Cformat&fit=clip&w=282",
+      "alt": "Ayenda 1313 Barahona 72 - Doble  - 1",
+      "w": 282,
+      "h": 188
+    },
+    {
+      "src": "https://ayenda-images.imgix.net/hvx81ie9k1o1lze1jp1l5yqfggs7?ixlib=react-9.7.0&q=80&auto=compress%2Cenhance%2Cformat&fit=clip&w=282",
+      "alt": "Ayenda 1313 Barahona 72 - Doble  - 2",
+      "w": 282,
+      "h": 188
+    },
+    {
+      "src": "https://ayenda-images.imgix.net/maquuoivo2j86estj3c0ucj85s2q?ixlib=react-9.7.0&q=80&auto=compress%2Cenhance%2Cformat&fit=clip&w=282",
+      "alt": "Ayenda 1313 Barahona 72 - Cuádruple - 3",
+      "w": 282,
+      "h": 188
+    },
+    {
+      "src": "https://ayenda.com/svg/ayenda-white-icon-sm.svg",
+      "alt": "Ayenda hoteles logo",
+      "w": 300,
+      "h": 77
+    }
+  ],
+  "bgCount": 0,
+  "bgs": []
+}
