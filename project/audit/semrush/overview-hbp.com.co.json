@@ -1,0 +1,17 @@
+{
+  "report": "domain_rank",
+  "database": "co",
+  "domain": "hbp.com.co",
+  "columns": ["Domain", "Rank", "Organic Keywords", "Organic Traffic", "Organic Cost", "Adwords Keywords", "Adwords Traffic", "Adwords Cost"],
+  "data": {
+    "Domain": "hbp.com.co",
+    "Rank": 10788,
+    "Organic Keywords": 451,
+    "Organic Traffic": 7599,
+    "Organic Cost": 2073,
+    "Adwords Keywords": 2,
+    "Adwords Traffic": 485,
+    "Adwords Cost": 116
+  },
+  "note": "Authority Score and backlinks captured separately via backlink_research (see backlinks-*.json / SUMMARY.md)."
+}

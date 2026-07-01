@@ -1,0 +1,17 @@
+{
+  "report": "domain_rank",
+  "database": "co",
+  "domain": "hotelelpradobarranquilla.com",
+  "columns": ["Domain", "Rank", "Organic Keywords", "Organic Traffic", "Organic Cost", "Adwords Keywords", "Adwords Traffic", "Adwords Cost"],
+  "data": {
+    "Domain": "hotelelpradobarranquilla.com",
+    "Rank": 9569,
+    "Organic Keywords": 521,
+    "Organic Traffic": 8927,
+    "Organic Cost": 3031,
+    "Adwords Keywords": 6,
+    "Adwords Traffic": 1099,
+    "Adwords Cost": 248
+  },
+  "note": "Authority Score and backlinks captured separately via backlink_research (see backlinks-*.json / SUMMARY.md)."
+}

@@ -1,0 +1,30 @@
+{
+  "report": "domain_organic",
+  "database": "co",
+  "domain": "estelarenaltoprado.com",
+  "display_limit": 40,
+  "display_sort": "tr_desc",
+  "columns": ["Keyword","Position","Previous Position","Position Difference","Search Volume","CPC","Url","Traffic (%)","Traffic Cost (%)","Competition","Number of Results","Trends"],
+  "rows": [
+    {"keyword":"hotel estelar alto prado","position":1,"volume":4400,"cpc":0.37,"traffic_pct":44.85,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel estelar barranquilla","position":1,"volume":2900,"cpc":0.30,"traffic_pct":29.56,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"estelar alto prado","position":1,"volume":590,"cpc":0.82,"traffic_pct":6.01,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel estelar alto prado barranquilla","position":1,"volume":480,"cpc":0.51,"traffic_pct":4.89,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel estelar","position":4,"volume":14800,"cpc":0.42,"traffic_pct":1.88,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"estelar alto prado barranquilla","position":1,"volume":170,"cpc":0.46,"traffic_pct":1.73,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel estelar barranquilla telefono","position":1,"volume":110,"cpc":0.23,"traffic_pct":1.12,"url":"https://www.estelarenaltoprado.com/es/contacto/"},
+    {"keyword":"estelar barranquilla","position":1,"volume":590,"cpc":0.55,"traffic_pct":0.96,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel estelar prado barranquilla","position":1,"volume":90,"cpc":0.40,"traffic_pct":0.91,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"estelar barranquilla alto prado","position":1,"volume":50,"cpc":0.54,"traffic_pct":0.50,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel alto prado","position":1,"volume":210,"cpc":0.29,"traffic_pct":0.34,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"salon de eventos barranquilla","position":8,"volume":880,"cpc":0.50,"traffic_pct":0.33,"url":"https://www.estelarenaltoprado.com/es/eventos/"},
+    {"keyword":"alto prado barranquilla","position":4,"volume":590,"cpc":0.32,"traffic_pct":0.29,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel barranquilla alto prado","position":1,"volume":140,"cpc":0.33,"traffic_pct":0.22,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"estelar apartamentos barranquilla","position":7,"volume":320,"cpc":3.81,"traffic_pct":0.15,"url":"https://www.estelarenaltoprado.com/es/nuestros-hoteles/"},
+    {"keyword":"hotel alto prado barranquilla","position":1,"volume":260,"cpc":0.33,"traffic_pct":0.07,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"hotel altos del prado barranquilla","position":3,"volume":90,"cpc":0.33,"traffic_pct":0.07,"url":"https://www.estelarenaltoprado.com/es/"},
+    {"keyword":"buffet barranquilla","position":9,"volume":210,"cpc":0.09,"traffic_pct":0.06,"url":"https://www.estelarenaltoprado.com/es/restaurantes/"},
+    {"keyword":"salon de eventos barranquilla precios","position":4,"volume":170,"cpc":0.36,"traffic_pct":0.06,"url":"https://www.estelarenaltoprado.com/es/eventos/"}
+  ],
+  "note": "Branded 'estelar' cluster dominates. Local-intent non-brand keywords ranked: 'hotel barranquilla alto prado' (140, #1), 'hotel alto prado barranquilla' (260, #1), 'alto prado barranquilla' (590, #4), 'salon de eventos barranquilla' (880, #8), 'buffet barranquilla' (210, #9)."
+}

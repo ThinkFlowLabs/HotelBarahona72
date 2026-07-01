@@ -1,0 +1,17 @@
+{
+  "report": "domain_rank",
+  "database": "co",
+  "domain": "hotelskycollection.com",
+  "columns": ["Domain", "Rank", "Organic Keywords", "Organic Traffic", "Organic Cost", "Adwords Keywords", "Adwords Traffic", "Adwords Cost"],
+  "data": {
+    "Domain": "hotelskycollection.com",
+    "Rank": 68035,
+    "Organic Keywords": 87,
+    "Organic Traffic": 540,
+    "Organic Cost": 191,
+    "Adwords Keywords": 1,
+    "Adwords Traffic": 2,
+    "Adwords Cost": 0
+  },
+  "note": "Authority Score and backlinks captured separately via backlink_research (see backlinks-*.json / SUMMARY.md)."
+}

@@ -1,0 +1,17 @@
+{
+  "report": "domain_rank",
+  "database": "co",
+  "domain": "ghlgrandbarranquilla.com",
+  "columns": ["Domain", "Rank", "Organic Keywords", "Organic Traffic", "Organic Cost", "Adwords Keywords", "Adwords Traffic", "Adwords Cost"],
+  "data": {
+    "Domain": "ghlgrandbarranquilla.com",
+    "Rank": 39656,
+    "Organic Keywords": 340,
+    "Organic Traffic": 1236,
+    "Organic Cost": 652,
+    "Adwords Keywords": 12,
+    "Adwords Traffic": 774,
+    "Adwords Cost": 314
+  },
+  "note": "Authority Score and backlinks captured separately via backlink_research (see backlinks-*.json / SUMMARY.md)."
+}

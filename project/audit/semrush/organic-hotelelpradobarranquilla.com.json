@@ -1,0 +1,31 @@
+{
+  "report": "domain_organic",
+  "database": "co",
+  "domain": "hotelelpradobarranquilla.com",
+  "display_limit": 40,
+  "display_sort": "tr_desc",
+  "columns": ["Keyword","Position","Previous Position","Position Difference","Search Volume","CPC","Url","Traffic (%)","Traffic Cost (%)","Competition","Number of Results","Trends"],
+  "rows": [
+    {"keyword":"hotel el prado barranquilla","position":1,"volume":5400,"cpc":0.27,"traffic_pct":48.39,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel del prado","position":1,"volume":1900,"cpc":0.26,"traffic_pct":17.02,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"el prado","position":1,"volume":8100,"cpc":0.80,"traffic_pct":11.79,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel el prado","position":1,"volume":12100,"cpc":0.24,"traffic_pct":3.51,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel barranquilla","position":3,"volume":4400,"cpc":0.60,"traffic_pct":3.45,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel prado 72","position":3,"volume":2400,"cpc":0.31,"traffic_pct":2.41,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel prado","position":1,"volume":1300,"cpc":0.29,"traffic_pct":1.89,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"pasadia hotel del prado","position":1,"volume":210,"cpc":0.23,"traffic_pct":1.88,"url":"https://hotelelpradobarranquilla.com/planes"},
+    {"keyword":"prado barranquilla","position":1,"volume":210,"cpc":0.44,"traffic_pct":1.09,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel portal del prado","position":1,"volume":110,"cpc":0.52,"traffic_pct":0.57,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel prado real barranquilla","position":4,"volume":720,"cpc":0.25,"traffic_pct":0.56,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"restaurante hotel del prado","position":1,"volume":50,"cpc":0.17,"traffic_pct":0.44,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel el prado barranquilla colombia","position":1,"volume":50,"cpc":0.57,"traffic_pct":0.44,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel prada","position":3,"volume":2400,"cpc":0.56,"traffic_pct":0.36,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"pasadia barranquilla","position":5,"volume":1300,"cpc":0.12,"traffic_pct":0.35,"url":"https://hotelelpradobarranquilla.com/planes"},
+    {"keyword":"hoteles en el prado barranquilla","position":1,"volume":880,"cpc":0.39,"traffic_pct":0.24,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"hotel el prado barranquilla telefono","position":2,"volume":210,"cpc":0.23,"traffic_pct":0.20,"url":"https://hotelelpradobarranquilla.com/contacto"},
+    {"keyword":"el prado barranquilla","position":1,"volume":590,"cpc":0.32,"traffic_pct":0.11,"url":"https://www.hotelelpradobarranquilla.com/"},
+    {"keyword":"pasadia hotel barranquilla","position":5,"volume":320,"cpc":0.23,"traffic_pct":0.04,"url":"https://hotelelpradobarranquilla.com/planes"},
+    {"keyword":"hoteles en prado","position":5,"volume":90,"cpc":0.19,"traffic_pct":0.03,"url":"https://www.hotelelpradobarranquilla.com/"}
+  ],
+  "note": "Owns the 'el prado' / 'hotel del prado' cluster. KEY: ranks #3 for the generic head term 'hotel barranquilla' (4400 vol) and #3 for 'hotel prado 72' (2400 vol) - the Prado-72 geography directly adjacent to Barahona 72. Local-intent gaps include 'pasadia' (daypass) cluster and 'hoteles en el prado barranquilla'."
+}

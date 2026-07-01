@@ -1,0 +1,37 @@
+{
+  "domain": "hotelelpradobarranquilla.com",
+  "backlinks_overview": {
+    "report": "backlinks_overview",
+    "target_type": "root_domain",
+    "total_backlinks": 2031,
+    "referring_domains": 805,
+    "referring_ips": 883,
+    "follows": 1709,
+    "nofollows": 295,
+    "authority_score": 29,
+    "trust_score": 29,
+    "urls_num": 1670,
+    "ipclassc_num": 286,
+    "text_links": 1961,
+    "image_links": 8
+  },
+  "top_referring_domains": [
+    {"domain":"wikipedia.org","backlinks":2,"ascore":100},
+    {"domain":"yahoo.com","backlinks":4,"ascore":100},
+    {"domain":"bing.com","backlinks":3,"ascore":97},
+    {"domain":"forbes.com","backlinks":1,"ascore":93},
+    {"domain":"wikivoyage.org","backlinks":3,"ascore":78},
+    {"domain":"travelweekly.com","backlinks":1,"ascore":70},
+    {"domain":"colombia.travel","backlinks":1,"ascore":60},
+    {"domain":"barranquilla.gov.co","backlinks":1,"ascore":52},
+    {"domain":"traveler.es","backlinks":1,"ascore":52},
+    {"domain":"las2orillas.co","backlinks":1,"ascore":51},
+    {"domain":"gaycities.com","backlinks":2,"ascore":49},
+    {"domain":"businesstravelnews.com","backlinks":2,"ascore":45},
+    {"domain":"fashionmagazine.com","backlinks":1,"ascore":44},
+    {"domain":"carnavaldebarranquilla.org","backlinks":12,"ascore":41},
+    {"domain":"comisionfilmicacolombia.com","backlinks":2,"ascore":39},
+    {"domain":"probarranquilla.org","backlinks":8,"ascore":29}
+  ],
+  "notes": "Largest referring-domain footprint of the set (805 ref domains, 2031 backlinks). Very high-authority citation links: wikipedia.org, bing.com, forbes.com, wikivoyage.org plus Colombian/travel press (las2orillas.co, colombia.travel, traveler.es, carnavaldebarranquilla.org). The width of the ref-domain base (805) is the real moat here. AS 29."
+}

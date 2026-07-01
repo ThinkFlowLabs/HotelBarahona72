@@ -1,0 +1,42 @@
+{
+  "domain": "danncarltonbaq.co",
+  "backlinks_overview": {
+    "report": "backlinks_overview",
+    "target_type": "root_domain",
+    "total_backlinks": 1744,
+    "referring_domains": 207,
+    "referring_ips": 160,
+    "follows": 1285,
+    "nofollows": 456,
+    "authority_score": 31,
+    "trust_score": 31,
+    "urls_num": 1635,
+    "ipclassc_num": 147,
+    "text_links": 1678,
+    "image_links": 12
+  },
+  "top_referring_domains": [
+    {"domain":"yahoo.com","backlinks":19,"ascore":100},
+    {"domain":"wanderlog.com","backlinks":3,"ascore":79},
+    {"domain":"wikivoyage.org","backlinks":2,"ascore":78},
+    {"domain":"elespectador.com","backlinks":1,"ascore":75},
+    {"domain":"odoo.com","backlinks":2,"ascore":72},
+    {"domain":"caracol.com.co","backlinks":1,"ascore":71},
+    {"domain":"travelweekly.com","backlinks":1,"ascore":70},
+    {"domain":"colombia.travel","backlinks":2,"ascore":60},
+    {"domain":"barranquilla.gov.co","backlinks":1,"ascore":52},
+    {"domain":"consejodeestado.gov.co","backlinks":1,"ascore":48},
+    {"domain":"uninorte.edu.co","backlinks":3,"ascore":47},
+    {"domain":"sandee.com","backlinks":2,"ascore":44},
+    {"domain":"sygic.com","backlinks":1,"ascore":44},
+    {"domain":"andi.com.co","backlinks":2,"ascore":43},
+    {"domain":"usta.edu.co","backlinks":4,"ascore":42},
+    {"domain":"carnavaldebarranquilla.org","backlinks":12,"ascore":41},
+    {"domain":"fenalco.com.co","backlinks":2,"ascore":40},
+    {"domain":"travelclick.com","backlinks":23,"ascore":40},
+    {"domain":"hotelesdann.com","backlinks":872,"ascore":37},
+    {"domain":"probarranquilla.org","backlinks":8,"ascore":29},
+    {"domain":"colombiainfo.org","backlinks":11,"ascore":25}
+  ],
+  "notes": "Strong, legitimate profile. The bulk of raw backlinks come from the sister chain site hotelesdann.com (872 links). High-authority editorial/citation links from colombia.travel, elespectador.com, caracol.com.co, barranquilla.gov.co, uninorte.edu.co, carnavaldebarranquilla.org and travel directories (wanderlog, wikivoyage, sygic). Few/no toxic patterns visible in top 40."
+}

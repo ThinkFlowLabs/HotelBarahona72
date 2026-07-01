@@ -1,0 +1,17 @@
+{
+  "report": "domain_rank",
+  "database": "co",
+  "domain": "danncarltonbaq.co",
+  "columns": ["Domain", "Rank", "Organic Keywords", "Organic Traffic", "Organic Cost", "Adwords Keywords", "Adwords Traffic", "Adwords Cost"],
+  "data": {
+    "Domain": "danncarltonbaq.co",
+    "Rank": 7966,
+    "Organic Keywords": 554,
+    "Organic Traffic": 11408,
+    "Organic Cost": 4335,
+    "Adwords Keywords": 0,
+    "Adwords Traffic": 0,
+    "Adwords Cost": 0
+  },
+  "note": "Authority Score and backlinks captured separately via backlink_research (see backlinks-*.json / SUMMARY.md)."
+}
