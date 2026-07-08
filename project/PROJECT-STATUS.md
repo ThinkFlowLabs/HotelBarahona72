@@ -24,6 +24,7 @@ landing de Google Ads y destino del perfil de Google Business.
 ## 2. Estado actual — EN VIVO
 
 - **Sitio en vivo (GitHub Pages):** https://thinkflowlabs.github.io/HotelBarahona72/
+- **Sitio en vivo (Railway):** https://hotel-barahona-72-production.up.railway.app/ (mismo contenido)
 - **Repo:** https://github.com/ThinkFlowLabs/HotelBarahona72 (público, rama `main`, sirve desde raíz)
 - **Reporte SEO en vivo:** https://thinkflowlabs.github.io/SEO/hotel-barahona-72-audit/
 - **Dominio final (aún NO registrado):** hotelbarahona72.com (el `canonical` ya apunta ahí)
@@ -147,6 +148,19 @@ gh auth switch --user LPGMarketing
 > Cuentas gh en el keyring: **ThinkFlowLabs** (para este repo) y **LPGMarketing** (predeterminada).
 > Siempre devolver a LPGMarketing al terminar.
 
+**Railway (segundo hosting, agregado Jul 8 2026):**
+
+El mismo clon de deploy también está linkeado a Railway (cuenta LPGMarketing / ludlowpg@gmail.com,
+proyecto `hotel-barahona-72`, servicio `hotel-barahona-72`). Es un static site servido con Caddy
+vía el `Dockerfile` en la raíz del repo (`.railwayignore` excluye `project/`).
+
+```bash
+# publicar en Railway (después del push a GitHub Pages):
+cd "C:/Users/JimAn/Desktop/ThinkFlowLabs/_deploy/HotelBarahona72"
+railway up --service hotel-barahona-72 --detach
+```
+URL pública: https://hotel-barahona-72-production.up.railway.app/
+
 ---
 
 ## 7. Previsualizar localmente
@@ -183,6 +197,9 @@ carrusel, filtros. **Gotcha:** `scroll-behavior:smooth` desincroniza las medicio
 ## 9. Historial de cambios (commits del repo)
 
 ```
+9538c78  Fix: reseñas con ñ en el stamp del hero
+7487752  Copy: barrio El Prado (nombre completo) + hero en 2 líneas + Dockerfile para Railway
+40eb9a5  Copy: ubicación correcta barrio Prado (no centro) en hero, dirección y sección Carnaval
 dbb69d8  Ortografía: tildes en todo el texto visible (sin tocar URLs/schema)
 846fd57  Hero: badge Pet friendly (hueso SVG) + fix flechas del lightbox (prev izq / next der)
 9d78c61  Info real de Ayenda: habitaciones+precios reales, fotos Doble/Cuádruple mejoradas, FAQ + schema
