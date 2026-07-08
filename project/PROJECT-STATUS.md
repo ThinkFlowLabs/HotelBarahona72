@@ -197,6 +197,7 @@ carrusel, filtros. **Gotcha:** `scroll-behavior:smooth` desincroniza las medicio
 ## 9. Historial de cambios (commits del repo)
 
 ```
+2072a7a  Reseñas: foto real del comedor (barahona-05 mejorada GPT Image 2 1024x1536) como fondo de sección
 9538c78  Fix: reseñas con ñ en el stamp del hero
 7487752  Copy: barrio El Prado (nombre completo) + hero en 2 líneas + Dockerfile para Railway
 40eb9a5  Copy: ubicación correcta barrio Prado (no centro) en hero, dirección y sección Carnaval
