@@ -89,7 +89,8 @@ del hero. (El primer intento se rechazó por "simplón/hecho por IA"; la v2 edit
 estrella #F5B301. Botones CTA en dorado; verde WhatsApp solo en botones de WhatsApp.
 
 **Orden de secciones:** header (transparente→sólido al hacer scroll) → hero (con **badge Pet friendly +
-icono de hueso SVG**, byline **"By: MFM Hoteles"** en itálica dorada #EBD9AE bajo el badge, precio
+icono de hueso SVG**, byline **"BY: MFM HOTELES"** bajo el badge con el estilo del kicker — Karla
+bold 11.5px, mayúsculas, letter-spacing .28em, dorado var(--gold-2) —, precio
 desde $120.000, 4.1/430) → manifiesto (modelo en la **sala real** del hotel)
 → 01 Ubicación (mapa + POIs reales) → 02 Negocios/salud → 03 Habitaciones (4 tipos oficiales, estilo OTA,
 chips por capacidad, modo oscuro) → CTA band → 04 Servicios → 05 Galería (carrusel + lightbox) → 06
@@ -204,6 +205,7 @@ carrusel, filtros. **Gotcha:** `scroll-behavior:smooth` desincroniza las medicio
 ## 9. Historial de cambios (commits del repo)
 
 ```
+7f37302  Hero: byline By: MFM Hoteles con estilo kicker (Karla bold uppercase, dorado gold-2)
 fcdef3d  Hero: byline By: MFM Hoteles bajo el badge Pet friendly (dorado #EBD9AE como El Prado)
 e0efe3f  Datos oficiales del hotel: tarifas 2026 (IVA inc.), celular 317 429 6529, correo y By: MFM Hoteles
 2072a7a  Reseñas: foto real del comedor (barahona-05 mejorada GPT Image 2 1024x1536) como fondo de sección
